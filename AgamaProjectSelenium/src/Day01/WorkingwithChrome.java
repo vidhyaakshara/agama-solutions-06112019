@@ -22,7 +22,7 @@ public void invokeBrowser()
 
 }
 public void getTitleofThePage() {
-	System.out.println("Title of the page :: " + Driver.getTitle());
+	System.out.println("Title of the webpage :: " + Driver.getTitle());
 }
 
 public void closeBrowser() {
